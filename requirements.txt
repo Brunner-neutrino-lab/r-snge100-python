@@ -1,4 +1,4 @@
-PyQt5
+nicegui
 pyvisa
 pyvisa-py
 pyserial
